@@ -1,3 +1,14 @@
+# custom files/folders
+gradle/
+.gradle/
+.idea/
+*grad*
+*remote-info.yaml
+task-info*.yaml
+build/
+out/
+test/
+
 # Compiled class file
 *.class
 
